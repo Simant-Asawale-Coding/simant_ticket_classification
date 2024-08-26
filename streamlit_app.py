@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import string
 import re
+import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
