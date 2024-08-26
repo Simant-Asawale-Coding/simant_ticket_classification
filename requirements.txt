@@ -2,7 +2,6 @@ streamlit
 pandas 
 numpy
 nltk
-re
 string
 sklearn
 spacy
