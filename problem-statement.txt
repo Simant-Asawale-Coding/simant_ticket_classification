@@ -1,0 +1,15 @@
+Capstone Project 3:
+Customer Support Ticket Classification:
+Objective: Automatically classify customer support tickets into categories (e.g., billing, technical support, product inquiry).
+Techniques: Text Preprocessing, TF-IDF, Naive Bayes, SVM.
+Tools: Python, NLTK, Scikit-Learn, Pandas.
+Dataset: Customer support ticket datasets, either custom or from public repositories.
+General Workflow for Each Project:
+Data Collection: Obtain the necessary text data from public datasets or through web scraping.
+Data Preprocessing: Clean and preprocess the text data, including tokenization, stopword removal, and stemming/lemmatization.
+Feature Extraction: Convert text data into numerical representations using techniques like Bag of Words, TF-IDF, or word embeddings.
+Model Development: Train machine learning models to achieve the project's objective.
+Model Evaluation: Evaluate the performance of the model using metrics like accuracy, precision, recall, and F1-score.
+Optimization: Tune hyperparameters to improve model performance.
+Documentation: Document the process, results, and insights gained from the project.
+API: Pickle the model file and Create user testing API using any web framework for demonstration
