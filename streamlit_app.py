@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import string
 import re
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 
 # Load the trained model pipeline (which includes both vectorizer and model)
